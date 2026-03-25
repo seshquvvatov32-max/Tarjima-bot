@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+deep_translator
+gTTS
+flask
